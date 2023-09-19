@@ -19,5 +19,6 @@ IMPORTANT INFORMATION
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- This is all I can think of that is important 
+- This is all I can think of that is important, there's also some code in it that I was using. You can delete it or use it idk.
+  Going forward I wont be adding code I'm working on it it, I'll just be updating the functionality.
  

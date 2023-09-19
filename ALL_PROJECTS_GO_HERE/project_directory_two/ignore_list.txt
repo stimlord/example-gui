@@ -1,0 +1,8 @@
+Cargo.toml
+node_modules
+mod.rs
+package-lock.json
+package.json
+ignore_list.txt
+main.rs
+.env

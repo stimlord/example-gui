@@ -1,0 +1,14 @@
+[package]
+name = "trading"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+utility = { path = "/Users/ui3u/levelone/utility" }
+colored = "1.9"
+csv = "1.1"
+url = "2.2"
+mysql = "16.0"
+tempfile = "3.2.0"

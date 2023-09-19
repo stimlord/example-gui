@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "ALL_PROJECTS_GO_HERE/project_directory_one",
+    "ALL_PROJECTS_GO_HERE/project_directory_two",
+    "ALL_PROJECTS_GO_HERE/project_directory_three",
+    "utility/Cargo.toml"
+]

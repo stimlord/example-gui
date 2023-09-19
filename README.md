@@ -14,8 +14,8 @@ IMPORTANT INFORMATION
   for the individual project relative to the traversal logic code).
 
 - cargo run (this command starts the traversal logic at the root level of your PROJECT DIRECTORY not the root directory)
-  cargo run active (this command starts you at your current location, think "PWD" and start traversal logic there)
-  cargo run utility (this starts your traversal logic in the utility folder, you can call it from anywhere in any PROJECT DIRECTORY)
+- cargo run active (this command starts you at your current location, think "PWD" and start traversal logic there)
+- cargo run utility (this starts your traversal logic in the utility folder, you can call it from anywhere in any PROJECT DIRECTORY)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
